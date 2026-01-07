@@ -1,0 +1,7 @@
+﻿services:
+  creighton_v1.api:
+    image: creighton_v1.api
+    build:
+      context: .
+      dockerfile: Creighton_v1.Api/Dockerfile
+

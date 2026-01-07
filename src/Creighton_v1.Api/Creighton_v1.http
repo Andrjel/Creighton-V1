@@ -1,0 +1,6 @@
+@Creighton_v1_HostAddress = http://localhost:5125
+
+GET {{Creighton_v1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
